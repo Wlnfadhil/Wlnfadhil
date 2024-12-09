@@ -1,38 +1,35 @@
-# Hi there, I'm WildanFadhilNazaruddin 👋
+# Hi there, I'm Wildan Fadhil Nazaruddin 👋
 
-## 🚀 About Me
-I'm a passionate developer with a strong interest in web development, machine learning, and open-source contributions. I love exploring new technologies and continuously improving my skills.
+![Profile Views](https://komarev.com/ghpvc/?username=Wlnfadhil&color=blue)
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Angular, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+## About Me
 
-## 🔭 Current Projects
-- [Project Name](link): Brief description of what the project does.
-- [Project Name](link): Brief description of what the project does.
+I'm a passionate developer with an interest in [your interests, e.g., web development, data science, etc.]. I love to learn new technologies and contribute to open source projects.
 
-## 🌱 Learning
-- Currently learning Rust and exploring its applications in systems programming.
-- Deepening my knowledge in machine learning and AI.
+## Skills
 
-## 💬 Ask Me About
-- Web development
-- Open-source contributions
-- Machine learning
+- **Programming Languages**: [List your programming languages, e.g., JavaScript, Python, etc.]
+- **Frameworks/Libraries**: [List frameworks/libraries you're proficient in, e.g., React, Django, etc.]
+- **Tools**: [List tools you use, e.g., Git, Docker, etc.]
 
-## 📫 How to Reach Me
-- Email: wildanfadhilnazaruddin@example.com
-- LinkedIn: [WildanFadhilNazaruddin](https://www.linkedin.com/in/wildanfadhilnazaruddin)
-- Twitter: [@WildanFadhilN](https://twitter.com/WildanFadhilN)
+## Projects
 
-## 📈 GitHub Stats
-![WildanFadhilNazaruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildanFadhilNazaruddin&show_icons=true&theme=radical)
+Here are some of my notable projects:
 
-## 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WildanFadhilNazaruddin&layout=compact&theme=radical)
+- [**Project 1**](link to project): Brief description of Project 1.
+- [**Project 2**](link to project): Brief description of Project 2.
+- [**Project 3**](link to project): Brief description of Project 3.
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Contact Me
+
+- **Email**: [your email]
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/wildan-fadhil-nazaruddin-b3b076280/)
+- **GitHub**: [GitHub](https://github.com/Wlnfadhil)
+
+## GitHub Stats
+
+![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wlnfadhil&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlnfadhil&layout=compact&theme=radical)
