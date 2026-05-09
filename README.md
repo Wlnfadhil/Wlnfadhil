@@ -1,35 +1,94 @@
-# Hi there, I'm Wildan Fadhil Nazaruddin 👋
+# Hi, I'm Wildan Fadhil Nazaruddin 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wlnfadhil&color=blue)
+Machine Learning • MLOps • Data Science • Backend AI Systems
 
-## About Me
+---
 
-I'm a passionate developer with an interest in [your interests, e.g., web development, data science, etc.]. I love to learn new technologies and contribute to open source projects.
+# About Me
 
-## Skills
+I'm a Machine Learning & MLOps enthusiast with a strong interest in:
 
-- **Programming Languages**: [List your programming languages, e.g., JavaScript, Python, etc.]
-- **Frameworks/Libraries**: [List frameworks/libraries you're proficient in, e.g., React, Django, etc.]
-- **Tools**: [List tools you use, e.g., Git, Docker, etc.]
+* Machine Learning Engineering
+* MLOps & CI/CD Automation
+* Monitoring & Observability
+* Data Science
+* Backend AI Systems
+* Physics Education & Computational Analysis
 
-## Projects
+Currently focused on building production-oriented ML systems instead of only training models.
 
-Here are some of my notable projects:
+---
 
-- [**Project 1**](link to project): Brief description of Project 1.
-- [**Project 2**](link to project): Brief description of Project 2.
-- [**Project 3**](link to project): Brief description of Project 3.
+# Current Focus
 
-## Contact Me
+* Building end-to-end MLOps pipelines
+* Experiment tracking using MLflow
+* Monitoring ML systems using Prometheus & Grafana
+* CI/CD automation using GitHub Actions
+* FastAPI inference serving
+* Dockerized deployment architecture
+* Model observability & alerting
 
-- **Email**: [your email]
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/wildan-fadhil-nazaruddin-b3b076280/)
-- **GitHub**: [GitHub](https://github.com/Wlnfadhil)
+---
 
-## GitHub Stats
+# ⚙️ Tech Stack
 
-![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wlnfadhil&show_icons=true&theme=radical)
+## Programming Languages
 
-## Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlnfadhil&layout=compact&theme=radical)
+## Machine Learning & Data
+
+---
+
+## MLOps & Monitoring
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 SMSML — Student Performance Prediction MLOps Pipeline
+
+Production-ready MLOps pipeline implementing:
+
+* MLflow experiment tracking
+* Hyperparameter tuning
+* FastAPI inference API
+* Prometheus monitoring
+* Grafana dashboard
+* Alerting system
+* CI/CD GitHub Actions
+* Docker-ready deployment
+
+🔗 Repository:
+https://github.com/Wlnfadhil/SMSML_WildanFadhilNazaruddin_Dicoding
+
+---
+
+# 📈 GitHub Stats
+
+---
+
+# 🔥 Contribution Activity
+
+---
+
+# 🐍 Contribution Snake
+
+---
+
+# 🌐 Connect With Me
+
+* GitHub:
+  https://github.com/Wlnfadhil
+
+* LinkedIn:
+  https://www.linkedin.com/in/wildan-fadhil-nazaruddin-b3b076280/
+
+---
+
+# 📚 Philosophy
+
+> “Build systems, not just models.”
+
+---
